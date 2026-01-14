@@ -63,12 +63,10 @@
 | XRP               | XRP Ledger     | 5%         |
 | XLM               | Stellar        | 5%         |
 | D223              | Ethereum       | 16%        |
-| Other Tokens      | (DAO-selected) | 10%        |
 | Stablecoin Reserve| (Multi-chain)  | 20%        |
 
 - Assets are held in multi-chain treasury wallets managed manually by the Treasury Team, with public addresses for transparency. Monitoring uses tools like Portfolio Watch for balance tallying.
 - The stablecoin reserve serves as liquidity buffer, operational runway, and risk management tool.
-- "Other tokens" require published research memos and are strictly size-capped and memo-approved.
 
 **Multi-Chain Operations:**
 - AVF operates across Ethereum (for AVF token), Vaulta (for governance), Bitcoin, XRP Ledger, Solana, and Stellar to ensure global accessibility and efficiency.
@@ -133,7 +131,6 @@ The goal is not speculative outperformance but sustainable, risk-managed growth.
 
 **Portfolio Strategy:**
 - AVF maintains the specified crypto basket allocation, with rebalancing quarterly or as voted to address market drifts.
-- "Other tokens" require published research memos and are strictly size-capped and memo-approved.
 
 **Portfolio Process:**
 - Capital from funding rounds is manually allocated by the Treasury Team (key engineers and founders) to purchase basket assets.
