@@ -53,17 +53,22 @@
 
 **Asset Management:**
 
-| Asset         | Network         | Allocation |
-|--------------|----------------|------------|
-| BTC          | Bitcoin        | 30%        |
-| ETH          | Ethereum       | 10%        |
-| XRP          | XRP Ledger     | 5%         |
-| SOL          | Solana         | 5%         |
-| D223         | Ethereum       | 20%        |
-| XLM          | Stellar        | 5%         |
-| Other Tokens | (DAO-selected) | 25%        |
+**Initial Portfolio Allocation (Phase 1):**
+
+| Asset              | Network         | Allocation |
+|-------------------|----------------|------------|
+| BTC               | Bitcoin        | 30%        |
+| ETH               | Ethereum       | 12%        |
+| SOL               | Solana         | 6%         |
+| XRP               | XRP Ledger     | 5%         |
+| XLM               | Stellar        | 5%         |
+| D223              | Ethereum       | 12%        |
+| Other Tokens      | (DAO-selected) | 10%        |
+| Stablecoin Reserve| (Multi-chain)  | 20%        |
 
 - Assets are held in multi-chain treasury wallets managed manually by the Treasury Team, with public addresses for transparency. Monitoring uses tools like Portfolio Watch for balance tallying.
+- The stablecoin reserve serves as liquidity buffer, operational runway, and risk management tool.
+- "Other tokens" require published research memos and are strictly size-capped and memo-approved.
 
 **Multi-Chain Operations:**
 - AVF operates across Ethereum (for AVF token), Vaulta (for governance), Bitcoin, XRP Ledger, Solana, and Stellar to ensure global accessibility and efficiency.
@@ -117,27 +122,73 @@
 
 ## **Article V: Portfolio Operations**
 
+**Investment Strategy Objective:**
+The investment strategy prioritizes:
+- Diversified exposure
+- Controlled volatility
+- Yield capture where appropriate
+- Disciplined rebalancing
+
+The goal is not speculative outperformance but sustainable, risk-managed growth.
+
 **Portfolio Strategy:**
 - AVF maintains the specified crypto basket allocation, with rebalancing quarterly or as voted to address market drifts.
-- At least 25% of the "other tokens" allocation prioritizes emerging or utility-focused assets to foster diversification.
+- "Other tokens" require published research memos and are strictly size-capped and memo-approved.
 
 **Portfolio Process:**
 - Capital from funding rounds is manually allocated by the Treasury Team (key engineers and founders) to purchase basket assets.
+- Capital deployed in tranches; no lump-sum speculative entries.
 - Quarterly funding rounds issue AVF at a price snapshot from DEX223 Exchange; extra rounds require DAO vote.
 - Due diligence on new tokens (for addition) is published on-chain.
+
+**Execution Standards:**
+- Yield strategies limited to approved protocols and capped exposure.
+- Maximum DeFi exposure capped.
+- Maximum exposure per protocol and per bridge capped.
+- No leverage without explicit governance approval.
 
 **Instruments:**
 - Assets are held natively on their networks; yields (e.g., staking) are captured via DeFi protocols where applicable.
 - Purchases ensure predictable backing, with manual execution for security.
 
+**Rebalancing and Risk Management:**
+- **Standard Cadence:** Quarterly rebalancing.
+- **Early Rebalance:** Triggered by defined drift thresholds.
+- **Documentation:** All rebalances documented and reported.
+- **Drawdown Response:** Material drawdowns trigger a risk-off posture:
+  - Reduction of speculative exposure
+  - Increased liquidity
+  - Governance review before re-risking
+
 **Support Services:**
 - AVF allocates an annual budget from dues/yields for community initiatives, such as blockchain education or tool development.
 
 **Returns Distribution:**
-> **Note:** Profits from asset appreciation or yields are distributed as stablecoins to token holders, proportional to holdings.
-> - 20% of profits are reinvested into the basket
-> - 10% fund DAO operations
-> - 70% are distributed to investors
+
+**Principles:**
+- Distributions are not guaranteed; declared, not assumed.
+- Paid in stablecoins only, proportional to holdings at record date.
+- Distributions are never paid in newly minted AVF.
+
+**Eligible Sources:**
+- Realized gains
+- Net yield
+- Excess reserves explicitly approved
+
+**Frequency:**
+- Maximum: quarterly
+
+**Bootstrapping Split (Initial Phase - First 8 Quarters):**
+> **Recommended for first eight quarters:**
+> - 40% reinvested into the basket
+> - 20% operations/security/compliance
+> - 40% distributed to investors
+
+**Mature Phase Target:**
+> **Subject to governance approval:**
+> - 20% reinvested into the basket
+> - 10% operations
+> - 70% distributed to investors
 
 ---
 
