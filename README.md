@@ -59,10 +59,10 @@
 |-------------------|----------------|------------|
 | BTC               | Bitcoin        | 30%        |
 | ETH               | Ethereum       | 12%        |
-| SOL               | Solana         | 6%         |
+| SOL               | Solana         | 12%        |
 | XRP               | XRP Ledger     | 5%         |
 | XLM               | Stellar        | 5%         |
-| D223              | Ethereum       | 12%        |
+| D223              | Ethereum       | 16%        |
 | Other Tokens      | (DAO-selected) | 10%        |
 | Stablecoin Reserve| (Multi-chain)  | 20%        |
 
